@@ -38,7 +38,7 @@ export const Calendar: React.FC<CalendarProps> = ({ lastPeriod, cycleLength }) =
         
         <div className="bg-rose-50 rounded-lg p-4 text-center">
           <p className="text-gray-700">
-            {daysUntil} days until your next period
+            {daysUntil} days until your next period Bujji thalli
           </p>
         </div>
       </div>
