@@ -22,7 +22,7 @@ function App() {
           <div className="flex justify-center mb-4">
             <HeartPulse className="w-12 h-12 text-rose-500" />
           </div>
-          <h1 className="text-gray-950 font-extrabold text-3xl">Period Tracker</h1>
+          <h1 className="text-gray-950 font-extrabold text-3xl">Period Tracker for my Chitti Neeraja</h1>
           <p className="text-gray-800">Track and predict your menstrual cycle</p>
           
         </motion.div>
